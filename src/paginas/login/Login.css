@@ -1,0 +1,15 @@
+.textos1{
+    font-weight: bold !important;
+ }
+ 
+ .imagem{
+    align-items: center;
+     background-repeat: no-repeat;
+     width: 80px;
+     background-size: cover;
+     background-position: center;
+ }
+ 
+ .text-decorator-none{
+     text-decoration: none;
+ }
